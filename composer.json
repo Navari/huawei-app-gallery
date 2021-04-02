@@ -1,0 +1,26 @@
+{
+    "name": "navari/huawei-app-gallery",
+    "description": "Huawei App Galery confirm and verify inapp purchases",
+    "type": "library",
+    "keywords": [
+        "huawei",
+        "app gallery",
+        "inapp",
+        "purchase verify"
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Navari\\Huawei\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Celalettin YILMAZ",
+            "email": "larustr@gmail.com"
+        }
+    ]
+}
