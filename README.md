@@ -1,5 +1,7 @@
 # navari/huawei-app-gallery
 
+[![Packagist Version](https://img.shields.io/packagist/v/navari/huawei-app-gallery.svg?style=popout&color=aa007f)](https://packagist.org/packages/navari/huawei-app-gallery)  ![License](https://img.shields.io/packagist/l/navari/huawei-app-gallery.svg?style=popout&color=ff00bf)
+
 
 PHP library to verify and confirm Huawei AppGallery Inapp Purchases.
 
@@ -26,7 +28,8 @@ Array (
 
 ```
 
-#Error Codes
+
+##Error Codes
 
 Error codes documented in the [Huawei docs](https://developer.huawei.com/consumer/en/doc/development/HMSCore-References-V5/server-error-code-0000001050166248-V5)
 
