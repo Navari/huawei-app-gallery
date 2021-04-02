@@ -9,7 +9,6 @@ PHP library to verify and confirm Huawei AppGallery Inapp Purchases.
 composer require navari/huawei-app-gallery
 ```
 
-##Change 
 
 ## Example
 ```php
